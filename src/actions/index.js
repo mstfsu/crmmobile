@@ -1,1 +1,1 @@
-export * from './coronaActions.js';
+export * from './agentActions.js';
